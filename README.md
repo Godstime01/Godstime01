@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Godstime01
-- 👀 I’m interested in python, javascripts and Ruby
+- 👀 I’m interested in Python, Javascripts and Ruby
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on web development projects 
+- 💞️ I’m looking to collaborate on web development projects and Python projects 
 - 📫 you can reach me on the following platform
-  twitter - @M_i6ix
+      
+      twitter - @M_i6ix
   
 
 <!---
